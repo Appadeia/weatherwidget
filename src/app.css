@@ -1,6 +1,17 @@
+window.background, headerbar.titlebar {
+	background-color: alpha(@theme_bg_color, 0.4);
+	color: @theme_fg_color;
+}
+window.background:backdrop *, window.background:backdrop {
+	background-color: transparent;
+}
+window:backdrop decoration {
+	border: 0;
+	box-shadow: none;
+	outline-width: 0;
+}
 headerbar.titlebar {
 	background-image: none;
-	background-color: @theme_bg_color;
 	border-bottom: 0;
 }
 .large-title {

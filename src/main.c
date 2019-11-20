@@ -18,6 +18,7 @@
 
 #include <glib/gi18n.h>
 #include <libgweather-3.0/libgweather/gweather.h>
+#include <gdk/gdkx.h>
 
 #include "weather-config.h"
 #include "weather-window.h"
