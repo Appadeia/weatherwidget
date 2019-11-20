@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/me/appadeia/WeatherWidget">
+    <file>weather-window.ui</file>
+    <file>app.css</file>
+  </gresource>
+</gresources>

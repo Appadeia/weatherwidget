@@ -1,0 +1,7 @@
+data/me.appadeia.WeatherWidget.desktop.in
+data/me.appadeia.WeatherWidget.appdata.xml.in
+data/me.appadeia.WeatherWidget.gschema.xml
+src/weather-window.ui
+src/main.c
+src/weather-window.c
+
